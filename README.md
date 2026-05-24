@@ -41,8 +41,7 @@ Backend API for tracking and managing network vulnerabilities
 - Land a backend internship at a product company
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=har5h1tha&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=har5h1tha&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=har5h1tha&theme=tokyonight&hide_border=true)
 
