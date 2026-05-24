@@ -33,7 +33,7 @@ Production-style auth system with JWT refresh tokens, email OTP, rate limiting, 
 - Land a backend internship at a product company
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=har5h1tha&theme=tokyonight&hide_border=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=har5h1tha&theme=tokyonight&hide_border=true)
 
